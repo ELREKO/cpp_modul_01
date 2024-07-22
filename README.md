@@ -1,4 +1,4 @@
-# LEARNING: C++ [cpp modul 00](doc/PDF/cpp_01_modul_subject.pdf) - **`cpp01`**
+# LEARNING: C++ [cpp modul 01](doc/PDF/cpp_01_modul_subject.pdf) - **`cpp01`**
 [Subject](doc/PDF/cpp_01_modul_subject.pdf)
 
 ## Project Overview
