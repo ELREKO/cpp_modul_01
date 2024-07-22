@@ -1,3 +1,8 @@
+<[back](cpp01_01_new_delete.md) | [main](/) | [forward](cpp01_03_filestream.md)>
+
+---
+
+
 # Differences Between Pointer and Reference
 
 | **Property**          | **Pointer**                                         | **Reference**                                         |

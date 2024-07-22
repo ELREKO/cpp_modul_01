@@ -1,3 +1,7 @@
+<[back](cpp01_00_lerning.md) | [main](/) | [forward](cpp01_02_pointer_vs_reference.md)>
+
+---
+
 # new and delete
 
 ## Using `new`

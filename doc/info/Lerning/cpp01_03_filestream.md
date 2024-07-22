@@ -1,3 +1,8 @@
+<[back](cpp01_02_pointer_vs_reference.md) | [main](/) | [forward](cpp01_00_lerning.md)>
+
+---
+
+
 # Filestream
 
 ## 1. **Einleitung**
