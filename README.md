@@ -1,5 +1,5 @@
 # LEARNING: C++ [cpp modul 00](doc/PDF/cpp_01_modul_subject.pdf) - **`cpp01`**
-[Subject](doc/PDF/cpp_00_modul_subject.pdf)
+[Subject](doc/PDF/cpp_01_modul_subject.pdf)
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ Please note the [rules](doc/info/rulesetting/cpp_rules_picine.md) for the cpp Pi
 
 ### Requirements
 
-To get started with the **`cpp00`** project, you will need:
+To get started with the **`cpp01`** project, you will need:
 
 - A C++ compiler (e.g., `g++`, `clang++`)
 - A code editor or IDE (e.g., VSCode, CLion)
